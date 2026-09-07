@@ -1,0 +1,106 @@
+[
+  {
+    "id": "local_1726000001",
+    "name": "Tales with Reet",
+    "handle": "taleswithreet",
+    "profileUrl": "https://www.instagram.com/taleswithreet",
+    "followers": "15.4K",
+    "avgViews": "48K",
+    "niches": [
+      "Dining",
+      "Cafes",
+      "Hidden Gems"
+    ],
+    "reels": [
+      {
+        "id": "reel_local_1",
+        "label": "Authentic Punjabi Flavours • Namaste Punjab",
+        "videoUrl": "local_creator_1.mp4",
+        "views": "68K"
+      }
+    ]
+  },
+  {
+    "id": "local_1726000002",
+    "name": "Pari",
+    "handle": "_pariii111",
+    "profileUrl": "https://www.instagram.com/_pariii111",
+    "followers": "28.6K",
+    "avgViews": "85K",
+    "niches": [
+      "Foodies",
+      "Street Food",
+      "Restaurants"
+    ],
+    "reels": [
+      {
+        "id": "reel_local_2",
+        "label": "Taco Bell Launch • TDI Mall Mohali",
+        "videoUrl": "local_creator_2.mp4",
+        "views": "95K"
+      }
+    ]
+  },
+  {
+    "id": "local_1726000003",
+    "name": "Sehajpreet",
+    "handle": "sehajpreet_126",
+    "profileUrl": "https://www.instagram.com/sehajpreet_126",
+    "followers": "19.2K",
+    "avgViews": "52K",
+    "niches": [
+      "Shopping",
+      "Lifestyle",
+      "Hidden Gems"
+    ],
+    "reels": [
+      {
+        "id": "reel_local_3",
+        "label": "Finding Hidden Spots in Kaithal",
+        "videoUrl": "local_creator_4.mp4",
+        "views": "58K"
+      }
+    ]
+  },
+  {
+    "id": "local_1726000004",
+    "name": "Pari",
+    "handle": "_pariii111",
+    "profileUrl": "https://www.instagram.com/_pariii111",
+    "followers": "28.6K",
+    "avgViews": "85K",
+    "niches": [
+      "Desserts",
+      "Street Food",
+      "Cafes"
+    ],
+    "reels": [
+      {
+        "id": "reel_local_4",
+        "label": "Belgian Waffle ₹100 Challenge • CU",
+        "videoUrl": "local_creator_3.mp4",
+        "views": "112K"
+      }
+    ]
+  },
+  {
+    "id": "local_1726000005",
+    "name": "Sehajpreet",
+    "handle": "sehajpreet_126",
+    "profileUrl": "https://www.instagram.com/sehajpreet_126",
+    "followers": "19.2K",
+    "avgViews": "52K",
+    "niches": [
+      "Lifestyle",
+      "Hidden Gems"
+    ],
+    "reels": [
+      {
+        "id": "reel_local_5",
+        "label": "Hair Lab Salon Experience",
+        "videoUrl": "local_creator_5.mp4",
+        "views": "44K"
+      }
+    ]
+  }
+]
